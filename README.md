@@ -379,6 +379,5 @@ Developed using:
 
 <div align="center">
 
-### ⭐ Professional README Generated for GitHub
 
 </div>
